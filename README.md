@@ -74,10 +74,11 @@ Reference:
 - Based on assignment report (Employee Management System) DCP5101
 - https://www.programiz.com/c-programming/c-file-input-output
 
-Author:
-Md Fahim Shahriar
-Student ID: 1211205362
-Multi Media University (Cyberjaya, Malaysia)
+## Author
+**Md Fahim Shahriar**  
+ID: 1211205362  
+Multimedia University, (Cyberjaya Malaysia)  
 Language: C Programming
+
 
 If you found this helpful, please give a ⭐ on GitHub.
